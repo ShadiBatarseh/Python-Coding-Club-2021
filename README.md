@@ -1,5 +1,5 @@
 # Python-Coding-Club-2021
-![alt text](https://mottmac.sharepoint.com/sites/AutomationComputationalDesign/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Fmottmac%2Esharepoint%2Ecom%2Fsites%2FAutomationComputationalDesign%2FShared%20Documents%2FCoding%20Clubs%20%28Facilitators%29%2FTraining%20Materials%2FPython%2FAUS%2F2021%2FSession%200%20%2D%20Introduction%20to%20Coding%2FLet%27s%20Code%2Epng)
+![alt text](https://github.com/mottmacdonaldglobal/Python-Coding-Club-2021/blob/main/Let's%20Code.png?raw=true)
 
 Supporting our Strategic Priorities
 
